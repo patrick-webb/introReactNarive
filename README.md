@@ -1,1 +1,1 @@
-Intro to react native
+Intro to react native.
